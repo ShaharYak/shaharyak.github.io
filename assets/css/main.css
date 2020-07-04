@@ -936,6 +936,10 @@ table tfoot td {
   background-color: #ffffff;
 }
 
+.authorImage:focus img{
+    border: 2px solid blue;
+}
+
 .about {
   margin: 0 0 40px;
   text-align: center;
