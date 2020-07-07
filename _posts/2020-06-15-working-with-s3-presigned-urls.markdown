@@ -11,6 +11,7 @@ tags: [AWS, S3, Presigned Url]
 Grant temporary access to objects in AWS S3 buckets without the need to grant explicit permissions
 
 ![](https://cdn-images-1.medium.com/max/3494/1*4ZaSKTqyUqtbqkHRlh7qIQ.png)
+**Originally posted at [Altostra blog](https://altosta.com/blog/path-to-the-post)**
 
 ## TL;DR
 
@@ -75,3 +76,4 @@ Also, there is a placeholder for theaccesskeyId and secretAccessKey, you can rea
 **Further Reading:**
 * [Using Signed URLs](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-signed-urls.html)
 * [Share an Object with Others](https://docs.aws.amazon.com/AmazonS3/latest/dev/ShareObjectPreSignedURL.html)
+
