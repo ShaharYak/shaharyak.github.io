@@ -12,11 +12,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Shahar Yakov # add your name
 author-img: shahar-yakov.jpg # add your photo
 about-author:  # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
-social-github: ShaharYak # add your Github handle
-social-linkedin: shahar-yakov-a8391b197 # add your Linkedin handle
-social-email: # add your Email address
+social-twitter: Shahar_Yakov
+# social-facebook: # add your Facebook handle
+social-github: ShaharYak
+social-linkedin: shahar-yakov-a8391b197
+social-email: shahar321@gmail.com
 
 # Disqus
 discus-identifier: # add your discus identifier

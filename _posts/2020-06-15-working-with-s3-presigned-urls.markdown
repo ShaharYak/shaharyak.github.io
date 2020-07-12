@@ -2,7 +2,7 @@
 layout: post
 title: Working With S3 Presigned Urls
 date: 2020-06-15
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Grant temporary access to objects in AWS S3 buckets without the need to grant explicit permissions
 img: presigned.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [AWS, S3, Presigned Url]
@@ -11,7 +11,7 @@ tags: [AWS, S3, Presigned Url]
 Grant temporary access to objects in AWS S3 buckets without the need to grant explicit permissions
 
 ![](https://cdn-images-1.medium.com/max/3494/1*4ZaSKTqyUqtbqkHRlh7qIQ.png)
-**Originally posted at [Altostra blog](https://altosta.com/blog/path-to-the-post)**
+**Originally posted at [Altostra](https://www.altostra.com/blog/pre-signed-urls)**
 
 ## TL;DR
 
