@@ -8,7 +8,9 @@ tags: [AWS, S3, Presigned Url, Multipart Upload]
 ---
 ## Breaking an object into pieces, uploading it to S3 in a secure way and constructing it to one piece
 
-![](/assets/img/multipart-uploads-with-s3-presigned-url.jpeg)
+<p align="center">
+  <img src="https://miro.medium.com/max/700/1*ywkGJ-Zhohw3fsQ2iL3fwg.jpeg">
+</p>
 
 **Originally posted at [Altostra](https://www.altostra.com/blog/multipart-uploads-with-s3-presigned-url)**
 
