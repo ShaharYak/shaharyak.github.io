@@ -12,7 +12,7 @@ tags: [AWS, S3, Presigned Url, Multipart Upload]
   <img src="https://miro.medium.com/max/700/1*ywkGJ-Zhohw3fsQ2iL3fwg.jpeg">
 </p>
 
-**Originally posted at [Altostra](https://www.altostra.com/blog/multipart-uploads-with-s3-presigned-url)**
+**Originally published on [Altostra](https://www.altostra.com/blog/multipart-uploads-with-s3-presigned-url)**
 
 ## Let’s get on the same page
 

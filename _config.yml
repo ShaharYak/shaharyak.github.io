@@ -11,7 +11,12 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Shahar Yakov # add your name
 author-img: shahar-yakov.jpg # add your photo
-about-author:  # add description
+about-author:  I'm highly motivated and passionate about building amazing products.
+Eager to challenge the reality and make things better.
+I'm doing so by constant feedback loops and reflections.
+I give data respect, but believe that sometimes common sense beats it.
+I've worked in both early-stage and mature startups.
+I'm an IDF Mamram veteran holding a B.Sc in computer science.
 social-twitter: Shahar_Yakov
 # social-facebook: # add your Facebook handle
 social-github: ShaharYak

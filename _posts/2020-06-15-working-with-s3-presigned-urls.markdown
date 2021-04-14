@@ -11,7 +11,7 @@ tags: [AWS, S3, Presigned Url]
 Grant temporary access to objects in AWS S3 buckets without the need to grant explicit permissions
 
 ![](https://cdn-images-1.medium.com/max/3494/1*4ZaSKTqyUqtbqkHRlh7qIQ.png)
-**Originally posted at [Altostra](https://www.altostra.com/blog/pre-signed-urls)**
+**Originally published on [Altostra](https://www.altostra.com/blog/pre-signed-urls)**
 
 ## TL;DR
 
